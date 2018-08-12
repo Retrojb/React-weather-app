@@ -74,7 +74,7 @@ var Weather = React.createClass({
         let bgColorClass = 'weather-widget '; //very-warm...
     
         if (this.state.temp >= 30){
-            bgColorClass =+ 'very-warm';
+            bgColorClass =+ 'very-warm'; 
         }
         else if (this.state.temp > 20 && this.state.temp <30){
             bgColorClass += 'warm';
