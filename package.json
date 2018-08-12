@@ -1,0 +1,40 @@
+{
+  "name": "react-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Retrojb/React-weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Retrojb/React-weather-app/issues"
+  },
+  "homepage": "https://github.com/Retrojb/React-weather-app#readme",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "class": "^0.1.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-react": "^3.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1",
+    "names": "^1.0.0",
+    "node-notifier": "^5.2.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "reactify": "^1.1.1",
+    "save": "^2.3.2",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.0",
+    "weather-icons": "^1.3.2",
+    "whatwg-fetch": "^2.0.4"
+  }
+}
